@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc.exe -masm=intel -s main.c | main.s
+
